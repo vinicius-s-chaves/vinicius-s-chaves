@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Olá! Eu sou o Vinicius Chaves
 
 Tenho interesse em oportunidades que me permitam desenvolver experiência prática como desenvolvedor backend, colaborar em projetos reais e continuar evoluindo profissionalmente na área de tecnologia.
 
