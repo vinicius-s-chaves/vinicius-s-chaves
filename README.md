@@ -1,6 +1,6 @@
 # 💫 About Me:
-I'm looking to collaborate in new situations that allows me to develop practocal experience in real world projects
 
+Tenho interesse em oportunidades que me permitam desenvolver experiência prática como desenvolvedor backend, colaborar em projetos reais e continuar evoluindo profissionalmente na área de tecnologia.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/viniciuschaves-dev/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vinisschaves21@gmail.com) 
